@@ -1,6 +1,7 @@
 import React from 'react';
 import {View} from 'react-native';
-import Main from './src/4-BaiscForm';
+import Main from './src/5-FlatListMakeList';
+// import Main from './src/4-BaiscForm';
 // import Main from './src/3-GetTextInputValue';
 // import Main from './src/2-ButtonAndOnPress';
 // import Main from './src/1-FirstProgram';
